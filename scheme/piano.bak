@@ -1,0 +1,73 @@
+EESchema Schematic File Version 2
+LIBS:arduino
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:piano-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	2050 4350 2050 4900
+$Comp
+L Arduino_Uno_Shield ARD1
+U 1 1 5A2ABF8E
+P 3450 3300
+F 0 "ARD1" V 3550 3300 60  0000 C CNN
+F 1 "Arduino_Uno_Shield" V 3350 3300 60  0000 C CNN
+F 2 "" H 5250 7050 60  0001 C CNN
+F 3 "" H 5250 7050 60  0001 C CNN
+	1    3450 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 4350 2050 4350
+Wire Wire Line
+	2050 4900 8500 4900
+Wire Wire Line
+	2150 3850 2050 3850
+Wire Wire Line
+	2050 3850 2050 1900
+Wire Wire Line
+	2050 1900 8500 1900
+$EndSCHEMATC
