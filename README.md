@@ -6,10 +6,14 @@ An arduino project that attempts to recreate a piano. There are going to be LEDs
 * [Arduino library for KiCad](https://github.com/Alarm-Siren/arduino-kicad-library)
 
 # Resources which are to be deleted
-* [Java connected with Arduino](http://playground.arduino.cc/Interfacing/Java)
 
 # Parts from [Comet](https://store.comet.bg/Catalogue/)
-* [Потенциометър](https://store.comet.bg/Catalogue/Product/23677/)
-* [Рейки щифтови](https://store.comet.bg/Catalogue/Product/2997/#e30%3D)
-* [Рейки гнездови](https://store.comet.bg/Catalogue/CON/Connectors/PN/PCB+pin+headers+female+PN%2CPR/#eyJjIjpbIjEyNzUxMiIsIjEyNzUzMCJdLCJpcHAiOiIyMCJ9)
-* [Прототипнa платкa](https://store.comet.bg/Catalogue/Product/15354/)
+* [Бутони - P1-0S](https://store.comet.bg/download-file.php?id=891)
+* [Мултивибратор - CD4047BE](https://store.comet.bg/download-file.php?id=7472)
+* [LEDs - L-59SURKCGKW](https://store.comet.bg/Catalogue/Product/14155/)
+* [Multiplexer - 74LS298](http://pdf1.alldatasheet.com/datasheet-pdf/view/5704/MOTOROLA/74LS298.html)
+* [Demultiplexer - CD4051BE](https://store.comet.bg/download-file.php?id=7470)
+* [Потенциометър - POT16K1-LIN10K](https://store.comet.bg/download-file.php?id=854)
+* Рейки щифтови - HN1X40
+* Рейки гнездови - PN1X40
+* [Прототипнa платкa - PCB P16D](https://store.comet.bg/download-file.php?id=4428)
