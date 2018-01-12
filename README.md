@@ -8,6 +8,7 @@ An arduino project that attempts to recreate a piano. There are going to be LEDs
 # Resources which are to be deleted
 
 * [Arduino - Unity](https://www.alanzucconi.com/2015/10/07/how-to-integrate-arduino-with-unity/)
+* [Scheme](https://paulbleisch.com/2015/01/19/custom-arduino-membrane-keypad/)
 
 # Parts 
 * [Keys](https://www.thomann.de/gb/moog_keys.html)
