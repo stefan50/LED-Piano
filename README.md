@@ -7,6 +7,8 @@ An arduino project that attempts to recreate a piano. There are going to be LEDs
 
 # Resources which are to be deleted
 
+* [Arduino - Unity](https://www.alanzucconi.com/2015/10/07/how-to-integrate-arduino-with-unity/)
+
 # Parts from [Comet](https://store.comet.bg/Catalogue/)
 * [Бутони - P1-0S](https://store.comet.bg/download-file.php?id=891)
 * [Мултивибратор - CD4047BE](https://store.comet.bg/download-file.php?id=7472)
