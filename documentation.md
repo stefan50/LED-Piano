@@ -1,42 +1,55 @@
-TODO: FULL REVISION!
-
 ## Сравнение на проекта с други подобни продукти
-13.41$(21,8bgn) – цена на нашият проект
-1. The One - Smart Piano (https://www.smartpiano.com/) – 299$(486.05bgn) – НЕ Е MIDI
+### Нашият проект
+* __Брой клавиши__ - 12 (1 октава)
+* __Размери__ - 
+* __Цена__ - 13.41$ (21.80 лв.)
+* __Допълнителни функционалности__
+	* Потенциометър, който позволява промяна на октавата
 
-  The One представлява сравнително по-голямо пиано (61 клавиша – 5 октави), което има поставка за таблет/телефон, като също  така идва и с приложение, което показва tutorial-и за свирене на мелодии. Доколкото разбирам, мелодиите в приложението са ограничен брой, и то не голям такъв. Това е едно от изненадващо малкото пиана, които имат вградени диоди. Цената е МАЛКА за този вид продукти (цените на повечето варират между 300$ - 1500$). Приложението на пианото идва със step-by-step tutorials, sheet music, игри и видеа, като изглежда да ими опция за деца и опция за възрастни. Има две опции за цвят, черен(onyx black) и бял(white gold). Има и опция за включване на слушалки.
+### [Akai MPK Mini MKII](http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii)
+*  __Брой клавиши__ - 25 (2 октави)
+* __Размери__ - 317.5mm x 181.1mm x 44.5mm
+* __Цена__ - 79.99$ (128.36 лв.)
+* __Допълнителни функционалности__
+	* Модуларен контрол
+	* Възможност за регулация на резолюцията, обхвата и режима на свирене чрез arpeggiator
+	* Два бутона за контролиране на октавата
+	* Професионален музикален софтуер
+	* Гнездо за подаване на сигнал/симулация на сигнал от педал
+	
+### [Novation Launchkey 61 MK2](https://www.thomann.de/gb/novation_launchkey_61_mk2.htm)
+*  __Брой клавиши__ - 61 (5 октави)
+* __Размери__ - 990 x 120 x 320 mm
+* __Цена__ - 299.99$ (481.39 лв.)
+* __Допълнителни функционалности__
+	* Контрол на модула и височината на тона чрез потенциометър
+	* LED дисплей
+	* Възможност за регулация на резолюцията, обхвата и режима на свирене
+	* Музикален софтуер
 
-2. M-Audio hammer 88(http://www.m-audio.com/hammer88) – 169.99$ - НЕ Е С LED
+### [M-Audio Oxygen 49 MK IV](http://www.m-audio.com/products/view/oxygen-iv-49)
+*  __Брой клавиши__ - 49 (4 октави)
+* __Размери__ - 813.8mm x 242.8mm x 93.98mm
+* __Цена__ - 129.00$ (207.01 лв.)
+* __Допълнителни функционалности__
+	* Контрол на модула и височината на тона чрез потенциометър
+	* LCD дисплей
+	* Възможност за регулация на резолюцията, обхвата и режима на свирене
+	* Професионален музикален софтуер
+	* Бутон за симулация на сигнал от педал
 
-  Hammer 88 е един от по-новите продукти на m-audio, като главни е насочено към професионалисти или ученици, което предполага, че едва ли ще е удобно за по-малки деца. 
-Key Features
-88 fully-weighted, hammer-action keys
-USB-MIDI connection for playing virtual instruments, controlling recording software and more
-5-Pin MIDI output to trigger external MIDI devices
-Pitch bend, modulation, volume and ± controls for expressive performances
-Multiple keyboard zones for layering, splits and 4-note chords with a single key press
-Inputs for Sustain, Expression and Soft pedals
-USB-powered, no power supply required
-No drivers required, supports plug-and-play connectivity to your Mac or PC
-iOS compatibility using the Apple iPad Camera Connection Kit (sold separately)
-Multiple keyboard zones for layering, splits and 4-note chords with a single key press
-Clean, professional editing with included Hammer 88 Controller Editor
-Power adapter (optional) for stand-alone use
-Includes Music Rest
-
-3. Roll-Up-Piano (https://www.amazon.co.uk/Roll-Up-Piano-Electronic-Keyboard/dp/B004EC1UOA) 
-
-  Тясна свързано с проекта ни.
-
-4. (https://www.amazon.com/Audster-FK-6100-Professional-Performance-Electronic/dp/B01N1GLQQH/ref=sr_1_3?s=musical-instruments&ie=UTF8&qid=1515707173&sr=1-3&keywords=midi+piano+led) 
-
-  Още едно миди пиано, което още повече се доближава до идеята за MIDI пиано с LED tutorial, макар и LED частта в името на продукта да се отнася към малко LED екранче над клавишите.
+Класации за най-добрите пиана през последните 2 години
+([top 50 за 2016](https://blog.landr.com/50-best-midi-controllers/), 
+[top 16 за 2017](https://www.audiomentor.com/audioproduction/16-best-midi-controllers-in-2017), 
+[top 10 за 2018](https://www.wirerealm.com/guides/top-10-best-midi-keyboard-controllers), 
+[top 10 за 2017](https://cymatics.fm/blog/best-midi-keyboard-controllers/), 
+[top 5 за 2017](http://equipboard.com/posts/best-midi-keyboard)) 
 
 -------
 
-TODO https://blog.landr.com/50-best-midi-controllers/ - прегледай и виж кой е най-близък до нашата идея
+### Заключение IS TO BE IGNORED FOR NOW 
 
-  АЛФА заключение – повечето от продуктите, които се продават са или едното (LED), или другото (MIDI), като случаите, в които и двете присъстват, са Arduino проекти (https://www.hackster.io/tcucinotta/arduino-leds-midi-keyboard-musescore-piano-tutor-9080fe), което води до няколко възможни заключения:
-	1 – Едното изключва нуждата от другото, и следователно производителите пестят пари вграждайки само едната опция. Важно е да се отбележи, че реално погледнато, MIDI пианата са много па-често срещани от тези, които имат вградено под-клавишно LED осветление.
-	2 – Вграждането на едното пречи на другото.
-	3 – MIDI е по-добро/по-евтино от LED
+// *  __Брой клавиши__ - ( октави)
+// * __Размери__ - 
+// * __Цена__ - $ ( лв.)
+// * __Допълнителни функционалности__
