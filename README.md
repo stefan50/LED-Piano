@@ -14,6 +14,7 @@ An arduino project that attempts to recreate a piano. There are going to be LEDs
 * [help for values hopeee](https://www.google.bg/amp/www.instructables.com/id/How-to-access-5-buttons-through-1-Arduino-input/%3famp_page=true)
 * [multiplexsor](https://www.packtpub.com/mapt/book/hardware_and_creative/9781783982943/3/ch03lvl1sec30/button-multiplexing)
 * [midi](https://www.arduino.cc/en/Tutorial/Midi)
+* [just do it](https://www.makeuseof.com/tag/make-midi-controller-arduino/)
 
 # Parts 
 * [Keys](https://www.thomann.de/gb/moog_keys.html)
