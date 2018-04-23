@@ -1,6 +1,12 @@
 require "muse"
 include Muse
 
+# Hash of parametres:
+#	int octave
+#	float beat
+#	string name_of_song
+#	string note (?)
+
 def rec_song name_of_song # maybe a hash of parametres
 	Song.record name_of_song do
   		bar(1,b:5).notes   {b4} # supposed to be one note
